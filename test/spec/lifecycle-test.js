@@ -158,7 +158,7 @@ describe("Lifecycle tests", function () {
         expect(() => {
           // $FlowIgnore
           componentInstance.onDrag({}, {});
-        }).toThrow("onDrag called before onDragStart.");
+        }).toThrow("Drag start not fired! Possible bug?");
       });
 
       it("calls onDragStart prop callback fn", () => {

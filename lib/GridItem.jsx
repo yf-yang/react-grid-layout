@@ -279,7 +279,7 @@ export default class GridItem extends React.Component<Props, State> {
 
     if (!dragging) {
       const dragging = this.onDragReallyStarted(droppingPosition.e, {
-        node: this.currentNode,
+        node,
         deltaX: droppingPosition.left,
         deltaY: droppingPosition.top
       });

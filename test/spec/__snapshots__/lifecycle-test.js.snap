@@ -4429,6 +4429,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           "w": 1,
         }
       }
+      ignoreClickOnly={false}
       innerRef={
         {
           "current": <div
@@ -4902,6 +4903,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={2}
           handle=""
           i="0"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5074,6 +5076,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={2}
           handle=""
           i="1"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5246,6 +5249,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="2"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5418,6 +5422,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="3"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5590,6 +5595,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="4"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5762,6 +5768,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={4}
           handle=""
           i="5"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -5934,6 +5941,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={4}
           handle=""
           i="6"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6106,6 +6114,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={5}
           handle=""
           i="7"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6278,6 +6287,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={5}
           handle=""
           i="8"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6450,6 +6460,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={5}
           handle=""
           i="9"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6622,6 +6633,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={2}
           handle=""
           i="10"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6794,6 +6806,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={2}
           handle=""
           i="11"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -6966,6 +6979,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={2}
           handle=""
           i="12"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7138,6 +7152,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="13"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7310,6 +7325,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="14"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7482,6 +7498,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={3}
           handle=""
           i="15"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7654,6 +7671,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={4}
           handle=""
           i="16"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7826,6 +7844,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={4}
           handle=""
           i="17"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -7998,6 +8017,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={5}
           handle=""
           i="18"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -8170,6 +8190,7 @@ exports[`Lifecycle tests <ReactGridLayout> WidthProvider Renders with WidthProvi
           h={5}
           handle=""
           i="19"
+          ignoreClickOnly={false}
           isBounded={false}
           isDraggable={true}
           isResizable={true}
@@ -8519,6 +8540,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Creates layout based on pro
       "w": 1,
     }
   }
+  ignoreClickOnly={false}
   isBounded={false}
   isDraggable={true}
   isDroppable={false}
@@ -8579,6 +8601,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Creates layout based on pro
       h={2}
       handle=""
       i="a"
+      ignoreClickOnly={false}
       isBounded={false}
       isDraggable={false}
       isResizable={false}
@@ -8754,6 +8777,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Creates layout based on pro
       h={2}
       handle=""
       i="b"
+      ignoreClickOnly={false}
       isBounded={false}
       isDraggable={true}
       isResizable={true}
@@ -8929,6 +8953,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Creates layout based on pro
       h={2}
       handle=""
       i="c"
+      ignoreClickOnly={false}
       isBounded={false}
       isDraggable={true}
       isResizable={true}
@@ -9109,6 +9134,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Null items in list 1`] = `
       "w": 1,
     }
   }
+  ignoreClickOnly={false}
   isBounded={false}
   isDraggable={true}
   isDroppable={false}
@@ -9169,6 +9195,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Null items in list 1`] = `
       h={2}
       handle=""
       i="a"
+      ignoreClickOnly={false}
       isBounded={false}
       isDraggable={false}
       isResizable={false}
@@ -9344,6 +9371,7 @@ exports[`Lifecycle tests <ReactGridLayout> data-grid Null items in list 1`] = `
       h={2}
       handle=""
       i="c"
+      ignoreClickOnly={false}
       isBounded={false}
       isDraggable={true}
       isResizable={true}
